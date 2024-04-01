@@ -1,4 +1,4 @@
-describe('Teste de Registro', () => {
+describe('Teste de Registro válido', () => {
   // Data de nascimento pré-definida
   const dataNascimento = {
     dia: '15',

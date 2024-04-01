@@ -2,7 +2,7 @@ describe('Teste API', () => {
     it('Produtos', () => {
         // Define os dados de login
         const loginData = {
-            email: 'Teste@gmail.com',
+            email: 'TesteMapC@gmail.com',
             password: '123456789'
         };
 
