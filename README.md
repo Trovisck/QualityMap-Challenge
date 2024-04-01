@@ -29,6 +29,11 @@ npm init -y
 
 ```
 ### Passo 2: Instalar o Cypress versão 10.0.0
+Depois de criar um novo projeto Node.js, instale o Cypress versão 10.0.0 usando o npm. Execute o seguinte comando no terminal:
+```
+npm install cypress@10.0.0 --save-dev
+
+```
 Este comando instalará o Cypress como uma dependência de desenvolvimento em seu projeto Node.js.
 
 ### Passo 3: Verificar a instalação
